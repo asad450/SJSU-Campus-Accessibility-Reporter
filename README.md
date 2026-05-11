@@ -1,5 +1,9 @@
 # SJSU Campus Accessibility Reporter
-
+Team Members:
+Asad Qazi
+Travis Ezell
+Alex Nguyen
+[Partner 2]
 ## Problem
 
 Maria is an SJSU student who uses a wheelchair and needs clear, safe, accessible routes to get to class. Today, accessibility barriers around campus, such as blocked curb ramps, cracked sidewalks, dark walkways, and inaccessible entrances, may be visible or easy to describe, but they do not always become structured reports that staff can quickly route and act on. The exact failure point is that a student’s complaint or photo may not clearly identify the location, issue type, urgency, affected user, and responsible department.
